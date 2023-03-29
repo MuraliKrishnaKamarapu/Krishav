@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/KRISHAV/static/css/main.4a59f4c6.css",
+    "main.js": "/KRISHAV/static/js/main.b4e83fe8.js",
+    "static/js/630.9bc12647.chunk.js": "/KRISHAV/static/js/630.9bc12647.chunk.js",
+    "static/js/738.9c6e47e8.chunk.js": "/KRISHAV/static/js/738.9c6e47e8.chunk.js",
+    "static/js/372.ebb51717.chunk.js": "/KRISHAV/static/js/372.ebb51717.chunk.js",
+    "static/js/856.5f0d442e.chunk.js": "/KRISHAV/static/js/856.5f0d442e.chunk.js",
+    "static/js/22.eebf0ec9.chunk.js": "/KRISHAV/static/js/22.eebf0ec9.chunk.js",
+    "static/js/851.047d0e43.chunk.js": "/KRISHAV/static/js/851.047d0e43.chunk.js",
+    "static/js/215.b1012e98.chunk.js": "/KRISHAV/static/js/215.b1012e98.chunk.js",
+    "static/js/841.0d048619.chunk.js": "/KRISHAV/static/js/841.0d048619.chunk.js",
+    "static/js/186.7c5d9796.chunk.js": "/KRISHAV/static/js/186.7c5d9796.chunk.js",
+    "static/js/315.190cccfc.chunk.js": "/KRISHAV/static/js/315.190cccfc.chunk.js",
+    "static/js/377.dcadb0ff.chunk.js": "/KRISHAV/static/js/377.dcadb0ff.chunk.js",
+    "service-worker.js": "/KRISHAV/service-worker.js",
+    "index.html": "/KRISHAV/index.html",
+    "main.4a59f4c6.css.map": "/KRISHAV/static/css/main.4a59f4c6.css.map",
+    "main.b4e83fe8.js.map": "/KRISHAV/static/js/main.b4e83fe8.js.map",
+    "630.9bc12647.chunk.js.map": "/KRISHAV/static/js/630.9bc12647.chunk.js.map",
+    "738.9c6e47e8.chunk.js.map": "/KRISHAV/static/js/738.9c6e47e8.chunk.js.map",
+    "372.ebb51717.chunk.js.map": "/KRISHAV/static/js/372.ebb51717.chunk.js.map",
+    "856.5f0d442e.chunk.js.map": "/KRISHAV/static/js/856.5f0d442e.chunk.js.map",
+    "22.eebf0ec9.chunk.js.map": "/KRISHAV/static/js/22.eebf0ec9.chunk.js.map",
+    "851.047d0e43.chunk.js.map": "/KRISHAV/static/js/851.047d0e43.chunk.js.map",
+    "215.b1012e98.chunk.js.map": "/KRISHAV/static/js/215.b1012e98.chunk.js.map",
+    "841.0d048619.chunk.js.map": "/KRISHAV/static/js/841.0d048619.chunk.js.map",
+    "186.7c5d9796.chunk.js.map": "/KRISHAV/static/js/186.7c5d9796.chunk.js.map",
+    "315.190cccfc.chunk.js.map": "/KRISHAV/static/js/315.190cccfc.chunk.js.map",
+    "377.dcadb0ff.chunk.js.map": "/KRISHAV/static/js/377.dcadb0ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a59f4c6.css",
+    "static/js/main.b4e83fe8.js"
+  ]
+}
